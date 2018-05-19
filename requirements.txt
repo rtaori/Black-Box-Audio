@@ -1,0 +1,7 @@
+numpy
+scipy
+tensorflow-gpu
+python_speech_features
+pandas
+matplotlib
+pyxdg
