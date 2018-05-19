@@ -20,5 +20,4 @@ For example,
 python3 run_audio_attack.py sample_input.wav "hello world"
 ``` 
 
-You can also listen to pre-created audio samples in the `samples` directory
-Each original/adversarial pair is denoted by a leading number, with model transcriptions as the title
+You can also listen to pre-created audio samples in the [samples](samples/) directory. Each original/adversarial pair is denoted by a leading number, with model transcriptions as the title.
