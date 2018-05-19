@@ -9,6 +9,7 @@ git clone https://github.com/mozilla/DeepSpeech.git
 wget https://github.com/mozilla/DeepSpeech/releases/download/v0.1.0/deepspeech-0.1.0-models.tar.gz
 tar -xzf deepspeech-0.1.0-models.tar.gz
 rm deepspeech-0.1.0-models.tar.gz
+python3 make_checkpoint.py
 ```
 
 Now create run an attack with the format:
