@@ -1,6 +1,6 @@
 # Targeted Adversarial Examples for Black Box Audio Systems
 
-Sample code to let you create your own adversarial examples!
+Sample code to let you create your own adversarial examples! [Paper linked here](https://arxiv.org/abs/1805.07820)
 
 Setup:
 ```bash
