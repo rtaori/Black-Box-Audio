@@ -42,7 +42,7 @@ with tf.Graph().as_default() as graph:
     # Now let's dump these weights into a new copy of the network.
     with tf.Session(graph=graph) as sess:
         # Sample sentetnce, to make sure we've done it right
-        mfcc = audiofile_to_input_vector("sample.wav", 26, 9)
+        mfcc = audiofile_to_input_vector("sample_input.wav", 26, 9)
 
         # Okay, so this is ugly again.
         # We just want it to not crash.
