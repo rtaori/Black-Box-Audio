@@ -1,6 +1,5 @@
 numpy
 scipy
-tensorflow-gpu==1.14
 python_speech_features
 pandas
 matplotlib
@@ -9,3 +8,4 @@ progressbar
 tables
 attrdict
 ds_ctcdecoder
+https://files.pythonhosted.org/packages/59/41/ba6ac9b63c5bfb90377784e29c4f4c478c74f53e020fa56237c939674f2d/tensorflow_gpu-1.8.0-cp36-cp36m-manylinux1_x86_64.whl ; sys_platform == "linux"

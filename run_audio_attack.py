@@ -243,7 +243,7 @@ class Genetic():
                 
             itr += 1
 
-        return itr > self.max_iterations
+        return itr > self.max_iters
         
 inp_wav_file = sys.argv[1]
 target = sys.argv[2].lower()
