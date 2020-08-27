@@ -1,7 +1,11 @@
 numpy
 scipy
-tensorflow-gpu
+tensorflow-gpu==1.14
 python_speech_features
 pandas
 matplotlib
 pyxdg
+progressbar
+tables
+attrdict
+ds_ctcdecoder
