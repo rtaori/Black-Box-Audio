@@ -23,6 +23,7 @@ Finally, create the checkpoint used for the attack:
 ```
 python make_checkpoint.py
 ```
+DeepSpeech may throw a warning saying "decoder library file does not exist" but that can be ignored.
 
 ## Running Attacks
 Now create and run an attack, for example:

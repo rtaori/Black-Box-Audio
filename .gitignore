@@ -106,3 +106,7 @@ venv.bak/
 # DeepSpeech files
 DeepSpeech/
 models/
+
+# attack files
+sample_input_adv.wav
+sample_input_log.txt
